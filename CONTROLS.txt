@@ -1,0 +1,6 @@
+arrow keys = move your snowball
+shift or space = shoot fireballs
+
+E key = enter level editor mode
+mouse left click = edit level cells
+S key = save your level
